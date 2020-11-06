@@ -23,7 +23,3 @@ console.log("updat111111111e");
 console.log("update by thong");
 
 console.log("đuỵt mọe git");
-
-console.log("code từ nhánh Thông-Khoa <3 <3 <3"); 
-
-console.log("CODE TU NHANH THONG ABCDF");
