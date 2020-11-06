@@ -25,3 +25,4 @@ console.log("update by thong");
 console.log("đuỵt mọe git");
 
 console.log("code từ nhánh Khoa");
+console.log("merge abcdeef");
